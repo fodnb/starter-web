@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Daniel McGhee   Daniel.McGhee6813@gmail.com
 
 # THANKS
 
