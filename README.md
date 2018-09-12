@@ -14,3 +14,7 @@ This is a simple web project, deployment can be on any web server or even local 
 ## Introduction
 
 This is an example to show different parts of the Git repository and various commands using a web project.
+
+### Copyright
+
+2014 Git.Training
