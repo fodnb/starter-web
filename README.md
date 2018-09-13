@@ -7,6 +7,7 @@ Adding a line for rebasing example, more changes from myfeature branch.
 ## Purpose
 
 As stated above, the main purpose is to provide simple examples of Git training demos.
+Doing an emergency fix after stash
 
 ## Deployment
 
@@ -22,4 +23,4 @@ Please fork this repository and then issue pull requests for review.
 
 ### Copyright
 
-2014 Git.Training All Rigths Reserved
+2014 Git.Training All Rigths Reserved 
